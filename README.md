@@ -12,10 +12,14 @@ Prototypes, small tools, or unique implementations where I experiment with progr
 Projects from courses, coding challenges, or hackathons that showcase my learning journey and growth.
 
 ## ⚙️ My Skills & Technologies:
-Languages:C, Python, JavaScript, Java
-Frameworks: React, Node.js, MongoDB, ExpressJS
-Tools & Platforms: Git, Docker
-Special Interests: Web development, API design, machine learning, and solving algorithmic challenges.
+### Languages:
+C, Python, JavaScript, Java
+### Frameworks: 
+React, Node.js, MongoDB, ExpressJS
+### Tools & Platforms: 
+Git, Docker, VS Code
+### Special Interests: 
+Web development, API design, machine learning, and solving algorithmic challenges.
 
 
 ## 📫 Let's Connect:
